@@ -21,7 +21,6 @@ A powerful, beautiful and open-source inventory manager for your Valorant skins.
 
 
 ![Inventory Grid](<img width="492" height="391" alt="GRIND" src="https://github.com/user-attachments/assets/bc1b9c1f-51cf-4300-92b0-30a14b0486a1" />
-)
 
 ![Skin Preview - Vandal Prime](screenshots/skin_preview.png)
 
