@@ -1,4 +1,4 @@
-# Valorant Inventory Manager (VIM)
+# Valorant SKin Inventory Manager (VIM)
 
 <img width="891" height="331" alt="463473434" src="https://github.com/user-attachments/assets/1af28b66-d7b7-44b9-9588-5da849aefad1" />
 
