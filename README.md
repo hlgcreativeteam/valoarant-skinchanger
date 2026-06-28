@@ -1,6 +1,7 @@
 # Valorant Inventory Manager (VIM)
 
-![Valorant Inventory Manager](screenshots/main_mockup.png)
+<img width="891" height="331" alt="463473434" src="https://github.com/user-attachments/assets/1af28b66-d7b7-44b9-9588-5da849aefad1" />
+
 
 **Organize. Browse. Preview. Your VALORANT Collection.**
 
@@ -16,9 +17,11 @@ A powerful, beautiful and open-source inventory manager for your Valorant skins.
 
 ## Screenshots
 
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](<img width="620" height="329" alt="fewf3213" src="https://github.com/user-attachments/assets/157a987c-9a92-4361-a588-2d7fcd10a47e" />
 
-![Inventory Grid](screenshots/inventory_grid.png)
+
+![Inventory Grid](<img width="492" height="391" alt="GRIND" src="https://github.com/user-attachments/assets/bc1b9c1f-51cf-4300-92b0-30a14b0486a1" />
+)
 
 ![Skin Preview - Vandal Prime](screenshots/skin_preview.png)
 
